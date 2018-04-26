@@ -1,0 +1,7 @@
+/Users/ih/Desktop/f-book1/03_SuaveRestApi/bin/Debug/netcoreapp2.0/03_SuaveRestApi.deps.json
+/Users/ih/Desktop/f-book1/03_SuaveRestApi/bin/Debug/netcoreapp2.0/03_SuaveRestApi.runtimeconfig.json
+/Users/ih/Desktop/f-book1/03_SuaveRestApi/bin/Debug/netcoreapp2.0/03_SuaveRestApi.runtimeconfig.dev.json
+/Users/ih/Desktop/f-book1/03_SuaveRestApi/bin/Debug/netcoreapp2.0/03_SuaveRestApi.dll
+/Users/ih/Desktop/f-book1/03_SuaveRestApi/bin/Debug/netcoreapp2.0/03_SuaveRestApi.pdb
+/Users/ih/Desktop/f-book1/03_SuaveRestApi/obj/Debug/netcoreapp2.0/03_SuaveRestApi.dll
+/Users/ih/Desktop/f-book1/03_SuaveRestApi/obj/Debug/netcoreapp2.0/03_SuaveRestApi.pdb
