@@ -6,3 +6,5 @@ Using .NET Core.
 Build via dotnet build
 
 Run via dotnet run
+
+Test
